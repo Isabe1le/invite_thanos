@@ -9,7 +9,7 @@ from discord import *
 # extra imports
 import asyncio
 import time
-N
+
 bot_token = "YOUR_DISCORD_BOT_TOKEN_HERE"
 bot_prefix = ["meg!"]
 
