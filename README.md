@@ -15,6 +15,7 @@ cd /directory/to/file/
 nohup python3.5 invite_thanos.py &
 ```
 
+![Example](https://i.imgur.com/dxmFy8q.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
